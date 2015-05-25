@@ -5,7 +5,7 @@ define(['marionette'], function (Maironette) {
 	return Marionette.AppRouter.extend({
 
 	    routes : {
-	      "hello": "hello",
+	      "helloWorld": "hello",
 	      "yo": "yo"
 	    },
 
