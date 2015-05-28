@@ -17,14 +17,6 @@ define(['marionette'], function (Maironette) {
 					window.app.main.show(hello);
 				});
 			},
-			
-			test1 : function () {
-				console.log("loading test...");
-				require(['views/Test'], function(vTest){
-					var testing = new vTest();
-					window.app.main.show(testing);
-				});
-			},
 
 			yo : function () {
 				console.log("Yo!!")

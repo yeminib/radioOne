@@ -20,13 +20,6 @@ define([
       },
 
       ui: {
-      	  
-        	partNum: "#part_num",
-        	partRev: "#part_rev",
-        	butSubmit: "#go",
-        	togRev: "#rev",
-        	togDate: "#date",
-        	togMfgNo: "#mfgno",
         row1: "#row_1",
         row2: "#row_2"
       },
